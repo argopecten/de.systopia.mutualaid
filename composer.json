@@ -1,0 +1,16 @@
+{
+    "name": "systopia/de.systopia.mutualaid",
+    "description": "Mutual Aid Coordination. Fight Corona by organising mutual aid in your neighbourhood with this CiviCRM Extension!",
+    "homepage": "https://github.com/systopia/de.systopia.mutualaid",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "B. Endres / J. Schuppe"
+            "email": "endres@systopia.de"
+        }
+    ],
+    "require": {
+         "bjendres/de.systopia.osm": "dev-master",
+         "systopia/de.systopia.xcm": "1.7-beta3@dev"
+    }
+}
